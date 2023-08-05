@@ -40,7 +40,7 @@
 // document.getElementById("sec").innerText = rest_data[3];
 
 // The data/time we want to countdown to
-var countDownDate = new Date("Oct 28, 2023 17:00:00").getTime();
+var countDownDate = new Date("Oct 28, 2023 19:00:00").getTime();
 
 var date = new Date();
 
